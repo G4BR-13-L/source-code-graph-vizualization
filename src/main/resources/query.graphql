@@ -1,0 +1,20 @@
+query ($cursor: String) {
+  search(query: "language:Java stars:>100", type: REPOSITORY, first: 10, after: $cursor) {
+    edges {
+      node {
+        ... on Repository {
+          name
+          url
+          diskUsage
+          releases{
+            totalCount
+          }
+        }
+      }
+    }
+    pageInfo {
+      endCursor
+      hasNextPage
+    }
+  }
+}

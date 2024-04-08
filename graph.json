@@ -1,0 +1,5472 @@
+{
+    "nodes": [
+        {
+            "id": "SpringApplication"
+        },
+        {
+            "id": "TubeMinerApplication"
+        },
+        {
+            "id": "SpringBootApplication"
+        },
+        {
+            "id": "IOException"
+        },
+        {
+            "id": "GeneralSecurityException"
+        },
+        {
+            "id": "String"
+        },
+        {
+            "id": "BaseEntity"
+        },
+        {
+            "id": "SearchTerm"
+        },
+        {
+            "id": "SuperBuilder"
+        },
+        {
+            "id": "SQLDelete"
+        },
+        {
+            "id": "Where"
+        },
+        {
+            "id": "Data"
+        },
+        {
+            "id": "NoArgsConstructor"
+        },
+        {
+            "id": "AllArgsConstructor"
+        },
+        {
+            "id": "Entity"
+        },
+        {
+            "id": "Table"
+        },
+        {
+            "id": "UniqueConstraint"
+        },
+        {
+            "id": "UPDATE"
+        },
+        {
+            "id": "SET"
+        },
+        {
+            "id": "WHERE"
+        },
+        {
+            "id": "ToString"
+        },
+        {
+            "id": "EqualsAndHashCode"
+        },
+        {
+            "id": "Id"
+        },
+        {
+            "id": "GeneratedValue"
+        },
+        {
+            "id": "GenerationType"
+        },
+        {
+            "id": "SEQUENCE"
+        },
+        {
+            "id": "Column"
+        },
+        {
+            "id": "Builder"
+        },
+        {
+            "id": "Default"
+        },
+        {
+            "id": "Boolean"
+        },
+        {
+            "id": "FALSE"
+        },
+        {
+            "id": "IBaseRepository"
+        },
+        {
+            "id": "ISearchTermRepository"
+        },
+        {
+            "id": "Repository"
+        },
+        {
+            "id": "List"
+        },
+        {
+            "id": "BaseService"
+        },
+        {
+            "id": "SearchTermService"
+        },
+        {
+            "id": "Autowired"
+        },
+        {
+            "id": "Service"
+        },
+        {
+            "id": "KindEnum"
+        },
+        {
+            "id": "YOUTUBE_SEARCH_LIST"
+        },
+        {
+            "id": "YOUTUBE_VIDEO_LIST"
+        },
+        {
+            "id": "YOUTUBE_VIDEO"
+        },
+        {
+            "id": "KIND_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "id": "VARCHAR"
+        },
+        {
+            "id": "CHECK"
+        },
+        {
+            "id": "IN"
+        },
+        {
+            "id": "KindService"
+        },
+        {
+            "id": "IKindRepository"
+        },
+        {
+            "id": "Kind"
+        },
+        {
+            "id": "ContentTypeEnum"
+        },
+        {
+            "id": "AUTO"
+        },
+        {
+            "id": "CONTENT_TYPE_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "id": "Enumerated"
+        },
+        {
+            "id": "EnumType"
+        },
+        {
+            "id": "STRING"
+        },
+        {
+            "id": "ApiKeyService"
+        },
+        {
+            "id": "ReportService"
+        },
+        {
+            "id": "MissionControl"
+        },
+        {
+            "id": "MissionControlService"
+        },
+        {
+            "id": "TagService"
+        },
+        {
+            "id": "VideoService"
+        },
+        {
+            "id": "TopicService"
+        },
+        {
+            "id": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "id": "PostConstruct"
+        },
+        {
+            "id": "PreDestroy"
+        },
+        {
+            "id": "Value"
+        },
+        {
+            "id": "FileWriter"
+        },
+        {
+            "id": "PrintWriter"
+        },
+        {
+            "id": "Duration"
+        },
+        {
+            "id": "Instant"
+        },
+        {
+            "id": "ZoneId"
+        },
+        {
+            "id": "DateTimeFormatter"
+        },
+        {
+            "id": "PROGRAMMING_LANGUAGE_MINING_FLAG"
+        },
+        {
+            "id": "SEARCH_TERMS"
+        },
+        {
+            "id": "VIDEO_AMOUNT"
+        },
+        {
+            "id": "MM"
+        },
+        {
+            "id": "HH"
+        },
+        {
+            "id": "RELAT\u00d3RIO"
+        },
+        {
+            "id": "DE"
+        },
+        {
+            "id": "CONFIGURA\u00c7\u00c3O"
+        },
+        {
+            "id": "MINERA\u00c7\u00c3O"
+        },
+        {
+            "id": "V\u00cdDEOS"
+        },
+        {
+            "id": "Utilizado"
+        },
+        {
+            "id": "Integer"
+        },
+        {
+            "id": "Requisi\u00e7\u00f5es"
+        },
+        {
+            "id": "YouTube"
+        },
+        {
+            "id": "DIRETIVA"
+        },
+        {
+            "id": "DA"
+        },
+        {
+            "id": "PADR\u00c3O"
+        },
+        {
+            "id": "Continuar"
+        },
+        {
+            "id": "Minera\u00e7\u00e3o"
+        },
+        {
+            "id": "API"
+        },
+        {
+            "id": "Tempo"
+        },
+        {
+            "id": "Tags"
+        },
+        {
+            "id": "In\u00edcio"
+        },
+        {
+            "id": "Fim"
+        },
+        {
+            "id": "System"
+        },
+        {
+            "id": "Topicos"
+        },
+        {
+            "id": "Gson"
+        },
+        {
+            "id": "JsonUtil"
+        },
+        {
+            "id": "GsonBuilder"
+        },
+        {
+            "id": "BootstrapOnReady"
+        },
+        {
+            "id": "UtilityClass"
+        },
+        {
+            "id": "JSONException"
+        },
+        {
+            "id": "JSONObject"
+        },
+        {
+            "id": "StreamUtils"
+        },
+        {
+            "id": "InputStream"
+        },
+        {
+            "id": "Type"
+        },
+        {
+            "id": "StandardCharsets"
+        },
+        {
+            "id": "LocalDateTime"
+        },
+        {
+            "id": "T"
+        },
+        {
+            "id": "LocalDateTimeAdapter"
+        },
+        {
+            "id": "RuntimeException"
+        },
+        {
+            "id": "UTF_8"
+        },
+        {
+            "id": "UUID"
+        },
+        {
+            "id": "HashUtils"
+        },
+        {
+            "id": "VideoUtils"
+        },
+        {
+            "id": "BigInteger"
+        },
+        {
+            "id": "Matcher"
+        },
+        {
+            "id": "Pattern"
+        },
+        {
+            "id": "Collection"
+        },
+        {
+            "id": "ValidationUtil"
+        },
+        {
+            "id": "Object"
+        },
+        {
+            "id": "TypeAdapter"
+        },
+        {
+            "id": "JsonReader"
+        },
+        {
+            "id": "JsonWriter"
+        },
+        {
+            "id": "Override"
+        },
+        {
+            "id": "Getter"
+        },
+        {
+            "id": "ProgrammingLanguageEnum"
+        },
+        {
+            "id": "PYTHON"
+        },
+        {
+            "id": "JAVA"
+        },
+        {
+            "id": "C"
+        },
+        {
+            "id": "CPP"
+        },
+        {
+            "id": "CSHARP"
+        },
+        {
+            "id": "JAVASCRIPT"
+        },
+        {
+            "id": "TYPESCRIPT"
+        },
+        {
+            "id": "PHP"
+        },
+        {
+            "id": "SHELL"
+        },
+        {
+            "id": "RUBY"
+        },
+        {
+            "id": "OTHER"
+        },
+        {
+            "id": "NOT_SPECIFIED"
+        },
+        {
+            "id": "PROGRAMMING_LANGUAGE_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "id": "VIDEO"
+        },
+        {
+            "id": "COMMENT"
+        },
+        {
+            "id": "AnalyzedAsEnum"
+        },
+        {
+            "id": "PROGRAMMING_LANGUAGE_NOT_IDENTIFIED"
+        },
+        {
+            "id": "ANALYZED_AS_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "id": "IMissionControlRepository"
+        },
+        {
+            "id": "EnvironmentChecker"
+        },
+        {
+            "id": "PropertySource"
+        },
+        {
+            "id": "Component"
+        },
+        {
+            "id": "Outros"
+        },
+        {
+            "id": "GoogleNetHttpTransport"
+        },
+        {
+            "id": "NetHttpTransport"
+        },
+        {
+            "id": "JsonFactory"
+        },
+        {
+            "id": "JacksonFactory"
+        },
+        {
+            "id": "SearchListResponse"
+        },
+        {
+            "id": "ApiKey"
+        },
+        {
+            "id": "ApiKeyException"
+        },
+        {
+            "id": "Optional"
+        },
+        {
+            "id": "JSON_FACTORY"
+        },
+        {
+            "id": "APPLICATION_NAME"
+        },
+        {
+            "id": "Miner"
+        },
+        {
+            "id": "VIDEO_TYPE"
+        },
+        {
+            "id": "VIDEO_DETAILS_FIELDS"
+        },
+        {
+            "id": "MISSION_CODE"
+        },
+        {
+            "id": "YOUTUBE_MINER"
+        },
+        {
+            "id": "QUOTA_EXCEDED_MESSAGE"
+        },
+        {
+            "id": "The"
+        },
+        {
+            "id": "COMMENTS_DISABLED"
+        },
+        {
+            "id": "Miera\u00e7\u00e3o"
+        },
+        {
+            "id": "Nesse"
+        },
+        {
+            "id": "Chave"
+        },
+        {
+            "id": "Exception"
+        },
+        {
+            "id": "Search"
+        },
+        {
+            "id": "Teste"
+        },
+        {
+            "id": "TypeToken"
+        },
+        {
+            "id": "DatabaseLoaderService"
+        },
+        {
+            "id": "Log"
+        },
+        {
+            "id": "ApplicationReadyEvent"
+        },
+        {
+            "id": "Configuration"
+        },
+        {
+            "id": "EventListener"
+        },
+        {
+            "id": "ArrayList"
+        },
+        {
+            "id": "PATH_JSON_API_KEYS"
+        },
+        {
+            "id": "PATH_JSON_KIND"
+        },
+        {
+            "id": "PATH_JSON_SEARCH_TERM"
+        },
+        {
+            "id": "A"
+        },
+        {
+            "id": "Api"
+        },
+        {
+            "id": "Erro"
+        },
+        {
+            "id": "O"
+        },
+        {
+            "id": "Bean"
+        },
+        {
+            "id": "AppConfig"
+        },
+        {
+            "id": "PropertySourcesPlaceholderConfigurer"
+        },
+        {
+            "id": "DatabaseLoader"
+        },
+        {
+            "id": "Serializable"
+        },
+        {
+            "id": "JpaRepository"
+        },
+        {
+            "id": "IDatabaseLoaderRepository"
+        },
+        {
+            "id": "Long"
+        },
+        {
+            "id": "EntityNullException"
+        },
+        {
+            "id": "Nenhuma"
+        },
+        {
+            "id": "IApiKeyRepository"
+        },
+        {
+            "id": "VideoListResponse"
+        },
+        {
+            "id": "MineVideoDurationScript"
+        },
+        {
+            "id": "Unused"
+        },
+        {
+            "id": "VideoDataProcessor"
+        },
+        {
+            "id": "VideoMiner"
+        },
+        {
+            "id": "Video"
+        },
+        {
+            "id": "Transactional"
+        },
+        {
+            "id": "Collectors"
+        },
+        {
+            "id": "SESS\u00c3O"
+        },
+        {
+            "id": "COMPLEMENTAR"
+        },
+        {
+            "id": "COMPLETA"
+        },
+        {
+            "id": "Start"
+        },
+        {
+            "id": "YouTubeSearchListPageResponse"
+        },
+        {
+            "id": "Profile"
+        },
+        {
+            "id": "DURA\u00c7\u00c3O"
+        },
+        {
+            "id": "DOS"
+        },
+        {
+            "id": "VIDEOS"
+        },
+        {
+            "id": "DESABILITADA"
+        },
+        {
+            "id": "Math"
+        },
+        {
+            "id": "InterruptedException"
+        },
+        {
+            "id": "GoogleJsonResponseException"
+        },
+        {
+            "id": "MAX_RESULTS"
+        },
+        {
+            "id": "N\u00famero"
+        },
+        {
+            "id": "Thread"
+        },
+        {
+            "id": "Videos"
+        },
+        {
+            "id": "PageInfo"
+        },
+        {
+            "id": "PageInfoService"
+        },
+        {
+            "id": "Tag"
+        },
+        {
+            "id": "LanguageService"
+        },
+        {
+            "id": "Localized"
+        },
+        {
+            "id": "LocalizedService"
+        },
+        {
+            "id": "Statistics"
+        },
+        {
+            "id": "StatisticsService"
+        },
+        {
+            "id": "Status"
+        },
+        {
+            "id": "StatusService"
+        },
+        {
+            "id": "Topic"
+        },
+        {
+            "id": "Date"
+        },
+        {
+            "id": "CONTENT_TYPE"
+        },
+        {
+            "id": "VideoSnippet"
+        },
+        {
+            "id": "VideoStatus"
+        },
+        {
+            "id": "VideoStatistics"
+        },
+        {
+            "id": "VideoTopicDetails"
+        },
+        {
+            "id": "JpaSpecificationExecutor"
+        },
+        {
+            "id": "NoRepositoryBean"
+        },
+        {
+            "id": "E"
+        },
+        {
+            "id": "CreatedDate"
+        },
+        {
+            "id": "LastModifiedDate"
+        },
+        {
+            "id": "AuditingEntityListener"
+        },
+        {
+            "id": "MappedSuperclass"
+        },
+        {
+            "id": "EntityListeners"
+        },
+        {
+            "id": "Temporal"
+        },
+        {
+            "id": "TemporalType"
+        },
+        {
+            "id": "TIMESTAMP"
+        },
+        {
+            "id": "HttpStatus"
+        },
+        {
+            "id": "InvalidTokenException"
+        },
+        {
+            "id": "ResponseStatus"
+        },
+        {
+            "id": "FORBIDDEN"
+        },
+        {
+            "id": "ForbbidenException"
+        },
+        {
+            "id": "HttpException"
+        },
+        {
+            "id": "BAD_REQUEST"
+        },
+        {
+            "id": "ApiException"
+        },
+        {
+            "id": "EntityNotFoundException"
+        },
+        {
+            "id": "NOT_FOUND"
+        },
+        {
+            "id": "UnauthorizedException"
+        },
+        {
+            "id": "UNAUTHORIZED"
+        },
+        {
+            "id": "BadRequestException"
+        },
+        {
+            "id": "R"
+        },
+        {
+            "id": "ITagRepository"
+        },
+        {
+            "id": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "id": "ManyToOne"
+        },
+        {
+            "id": "JoinColumn"
+        },
+        {
+            "id": "OneToOne"
+        },
+        {
+            "id": "OneToMany"
+        },
+        {
+            "id": "CascadeType"
+        },
+        {
+            "id": "MERGE"
+        },
+        {
+            "id": "Query"
+        },
+        {
+            "id": "Param"
+        },
+        {
+            "id": "SELECT"
+        },
+        {
+            "id": "FROM"
+        },
+        {
+            "id": "ORDER"
+        },
+        {
+            "id": "BY"
+        },
+        {
+            "id": "DESC"
+        },
+        {
+            "id": "LIMIT"
+        },
+        {
+            "id": "AND"
+        },
+        {
+            "id": "IVideoRepository"
+        },
+        {
+            "id": "COUNT"
+        },
+        {
+            "id": "DISTINCT"
+        },
+        {
+            "id": "ON"
+        },
+        {
+            "id": "ASC"
+        },
+        {
+            "id": "Language"
+        },
+        {
+            "id": "TEXT"
+        },
+        {
+            "id": "ManyToMany"
+        },
+        {
+            "id": "FetchType"
+        },
+        {
+            "id": "EAGER"
+        },
+        {
+            "id": "TRUE"
+        },
+        {
+            "id": "LAZY"
+        },
+        {
+            "id": "ILocalizedRepository"
+        },
+        {
+            "id": "ITopicRepository"
+        },
+        {
+            "id": "ILanguageRepository"
+        },
+        {
+            "id": "IStatusRepository"
+        },
+        {
+            "id": "IStatisticsRepository"
+        },
+        {
+            "id": "IPageInfoRepository"
+        },
+        {
+            "id": "Test"
+        },
+        {
+            "id": "TubeMinerApplicationTests"
+        },
+        {
+            "id": "SpringBootTest"
+        },
+        {
+            "id": "MissionControlServiceTest"
+        },
+        {
+            "id": "ActiveProfiles"
+        },
+        {
+            "id": "AssertionsForInterfaceTypes"
+        },
+        {
+            "id": "ValidationUtilTest"
+        },
+        {
+            "id": "Assertions"
+        },
+        {
+            "id": "Hello"
+        },
+        {
+            "id": "Spaces"
+        },
+        {
+            "id": "VideoUtilsTest"
+        },
+        {
+            "id": "PT10H28M56S"
+        },
+        {
+            "id": "PT45M30S"
+        },
+        {
+            "id": "PT2H"
+        },
+        {
+            "id": "PT3H15S"
+        },
+        {
+            "id": "PT50S"
+        },
+        {
+            "id": "PT3H15M"
+        },
+        {
+            "id": "LanguageServiceTest"
+        },
+        {
+            "id": "BeforeEach"
+        },
+        {
+            "id": "Mock"
+        },
+        {
+            "id": "Mockito"
+        },
+        {
+            "id": "MockitoAnnotations"
+        },
+        {
+            "id": "Assert"
+        },
+        {
+            "id": "You"
+        },
+        {
+            "id": "TagServiceTest"
+        },
+        {
+            "id": "Arrays"
+        },
+        {
+            "id": "Tag1"
+        },
+        {
+            "id": "Tag2"
+        },
+        {
+            "id": "Tag3"
+        },
+        {
+            "id": "NewTag"
+        }
+    ],
+    "links": [
+        {
+            "source": "SpringApplication",
+            "target": "TubeMinerApplication"
+        },
+        {
+            "source": "TubeMinerApplication",
+            "target": "SpringBootApplication"
+        },
+        {
+            "source": "TubeMinerApplication",
+            "target": "IOException"
+        },
+        {
+            "source": "TubeMinerApplication",
+            "target": "GeneralSecurityException"
+        },
+        {
+            "source": "TubeMinerApplication",
+            "target": "TubeMinerApplication"
+        },
+        {
+            "source": "TubeMinerApplication",
+            "target": "String"
+        },
+        {
+            "source": "IOException",
+            "target": "ReportService"
+        },
+        {
+            "source": "IOException",
+            "target": "JsonUtil"
+        },
+        {
+            "source": "IOException",
+            "target": "LocalDateTimeAdapter"
+        },
+        {
+            "source": "IOException",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "IOException",
+            "target": "Start"
+        },
+        {
+            "source": "IOException",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "GeneralSecurityException",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "GeneralSecurityException",
+            "target": "Start"
+        },
+        {
+            "source": "GeneralSecurityException",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "String",
+            "target": "SearchTerm"
+        },
+        {
+            "source": "String",
+            "target": "KindEnum"
+        },
+        {
+            "source": "String",
+            "target": "KindService"
+        },
+        {
+            "source": "String",
+            "target": "IKindRepository"
+        },
+        {
+            "source": "String",
+            "target": "Kind"
+        },
+        {
+            "source": "String",
+            "target": "ReportService"
+        },
+        {
+            "source": "String",
+            "target": "JsonUtil"
+        },
+        {
+            "source": "String",
+            "target": "HashUtils"
+        },
+        {
+            "source": "String",
+            "target": "VideoUtils"
+        },
+        {
+            "source": "String",
+            "target": "ValidationUtil"
+        },
+        {
+            "source": "String",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "String",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "String",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "String",
+            "target": "MissionControl"
+        },
+        {
+            "source": "String",
+            "target": "IMissionControlRepository"
+        },
+        {
+            "source": "String",
+            "target": "EnvironmentChecker"
+        },
+        {
+            "source": "String",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "String",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "String",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "String",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "String",
+            "target": "DatabaseLoaderService"
+        },
+        {
+            "source": "String",
+            "target": "ApiKey"
+        },
+        {
+            "source": "String",
+            "target": "ApiKeyService"
+        },
+        {
+            "source": "String",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "String",
+            "target": "Start"
+        },
+        {
+            "source": "String",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "String",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "String",
+            "target": "IBaseRepository"
+        },
+        {
+            "source": "String",
+            "target": "BaseEntity"
+        },
+        {
+            "source": "String",
+            "target": "ApiKeyException"
+        },
+        {
+            "source": "String",
+            "target": "InvalidTokenException"
+        },
+        {
+            "source": "String",
+            "target": "HttpException"
+        },
+        {
+            "source": "String",
+            "target": "ApiException"
+        },
+        {
+            "source": "String",
+            "target": "ForbbidenException"
+        },
+        {
+            "source": "String",
+            "target": "EntityNullException"
+        },
+        {
+            "source": "String",
+            "target": "EntityNotFoundException"
+        },
+        {
+            "source": "String",
+            "target": "UnauthorizedException"
+        },
+        {
+            "source": "String",
+            "target": "BadRequestException"
+        },
+        {
+            "source": "String",
+            "target": "Tag"
+        },
+        {
+            "source": "String",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "String",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "String",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "String",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "String",
+            "target": "VideoService"
+        },
+        {
+            "source": "String",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "String",
+            "target": "Video"
+        },
+        {
+            "source": "String",
+            "target": "Localized"
+        },
+        {
+            "source": "String",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "String",
+            "target": "Topic"
+        },
+        {
+            "source": "String",
+            "target": "LanguageService"
+        },
+        {
+            "source": "String",
+            "target": "Language"
+        },
+        {
+            "source": "String",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "String",
+            "target": "Status"
+        },
+        {
+            "source": "String",
+            "target": "Statistics"
+        },
+        {
+            "source": "String",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "String",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "String",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "SearchTerm"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Kind"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "MissionControl"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "ApiKey"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Builder"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Data"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "NoArgsConstructor"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "SuperBuilder"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "CreatedDate"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "LastModifiedDate"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "AuditingEntityListener"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Date"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "HashUtils"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "MappedSuperclass"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "EntityListeners"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "BaseEntity"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Default"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Column"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Temporal"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "TemporalType"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "TIMESTAMP"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Boolean"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "FALSE"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Tag"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Video"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Localized"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Topic"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Language"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Status"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "Statistics"
+        },
+        {
+            "source": "BaseEntity",
+            "target": "PageInfo"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "SuperBuilder"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "SQLDelete"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Where"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Data"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "NoArgsConstructor"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "AllArgsConstructor"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Entity"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Table"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "UniqueConstraint"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "UPDATE"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "SET"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "WHERE"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "ToString"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "EqualsAndHashCode"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "SearchTerm"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Id"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "GeneratedValue"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "GenerationType"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "SEQUENCE"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Column"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Builder"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Default"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Boolean"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "FALSE"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "ISearchTermRepository"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "SearchTermService"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "Start"
+        },
+        {
+            "source": "SearchTerm",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Kind"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "ApiKey"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Tag"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Video"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Localized"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Topic"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Language"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Status"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "Statistics"
+        },
+        {
+            "source": "SuperBuilder",
+            "target": "PageInfo"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Kind"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "ApiKey"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Tag"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Video"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Localized"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Topic"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Language"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Status"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "Statistics"
+        },
+        {
+            "source": "SQLDelete",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Where",
+            "target": "Kind"
+        },
+        {
+            "source": "Where",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Where",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Where",
+            "target": "Tag"
+        },
+        {
+            "source": "Where",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Where",
+            "target": "Video"
+        },
+        {
+            "source": "Where",
+            "target": "Localized"
+        },
+        {
+            "source": "Where",
+            "target": "Topic"
+        },
+        {
+            "source": "Where",
+            "target": "Language"
+        },
+        {
+            "source": "Where",
+            "target": "Status"
+        },
+        {
+            "source": "Where",
+            "target": "Statistics"
+        },
+        {
+            "source": "Where",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Data",
+            "target": "Kind"
+        },
+        {
+            "source": "Data",
+            "target": "MissionControl"
+        },
+        {
+            "source": "Data",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "Data",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Data",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Data",
+            "target": "Tag"
+        },
+        {
+            "source": "Data",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Data",
+            "target": "Video"
+        },
+        {
+            "source": "Data",
+            "target": "Localized"
+        },
+        {
+            "source": "Data",
+            "target": "Topic"
+        },
+        {
+            "source": "Data",
+            "target": "Language"
+        },
+        {
+            "source": "Data",
+            "target": "Status"
+        },
+        {
+            "source": "Data",
+            "target": "Statistics"
+        },
+        {
+            "source": "Data",
+            "target": "PageInfo"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Kind"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "MissionControl"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "ApiKey"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Tag"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Video"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Localized"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Topic"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Language"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Status"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "Statistics"
+        },
+        {
+            "source": "NoArgsConstructor",
+            "target": "PageInfo"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Kind"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "MissionControl"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "ApiKey"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Tag"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Video"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Localized"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Topic"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Language"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Status"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "Statistics"
+        },
+        {
+            "source": "AllArgsConstructor",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Entity",
+            "target": "Kind"
+        },
+        {
+            "source": "Entity",
+            "target": "MissionControl"
+        },
+        {
+            "source": "Entity",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Entity",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Entity",
+            "target": "Tag"
+        },
+        {
+            "source": "Entity",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Entity",
+            "target": "Video"
+        },
+        {
+            "source": "Entity",
+            "target": "Localized"
+        },
+        {
+            "source": "Entity",
+            "target": "Topic"
+        },
+        {
+            "source": "Entity",
+            "target": "Language"
+        },
+        {
+            "source": "Entity",
+            "target": "Status"
+        },
+        {
+            "source": "Entity",
+            "target": "Statistics"
+        },
+        {
+            "source": "Entity",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Table",
+            "target": "Kind"
+        },
+        {
+            "source": "Table",
+            "target": "MissionControl"
+        },
+        {
+            "source": "Table",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Table",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Table",
+            "target": "Tag"
+        },
+        {
+            "source": "Table",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Table",
+            "target": "Video"
+        },
+        {
+            "source": "Table",
+            "target": "Localized"
+        },
+        {
+            "source": "Table",
+            "target": "Topic"
+        },
+        {
+            "source": "Table",
+            "target": "Language"
+        },
+        {
+            "source": "Table",
+            "target": "Status"
+        },
+        {
+            "source": "Table",
+            "target": "Statistics"
+        },
+        {
+            "source": "Table",
+            "target": "PageInfo"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Kind"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "MissionControl"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "ApiKey"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Tag"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Video"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Localized"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Topic"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Language"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Status"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "Statistics"
+        },
+        {
+            "source": "UniqueConstraint",
+            "target": "PageInfo"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Kind"
+        },
+        {
+            "source": "UPDATE",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "UPDATE",
+            "target": "ApiKey"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Tag"
+        },
+        {
+            "source": "UPDATE",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Video"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Localized"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Topic"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Language"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Status"
+        },
+        {
+            "source": "UPDATE",
+            "target": "Statistics"
+        },
+        {
+            "source": "UPDATE",
+            "target": "PageInfo"
+        },
+        {
+            "source": "SET",
+            "target": "Kind"
+        },
+        {
+            "source": "SET",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "SET",
+            "target": "ApiKey"
+        },
+        {
+            "source": "SET",
+            "target": "Tag"
+        },
+        {
+            "source": "SET",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "SET",
+            "target": "Video"
+        },
+        {
+            "source": "SET",
+            "target": "Localized"
+        },
+        {
+            "source": "SET",
+            "target": "Topic"
+        },
+        {
+            "source": "SET",
+            "target": "Language"
+        },
+        {
+            "source": "SET",
+            "target": "Status"
+        },
+        {
+            "source": "SET",
+            "target": "Statistics"
+        },
+        {
+            "source": "SET",
+            "target": "PageInfo"
+        },
+        {
+            "source": "WHERE",
+            "target": "Kind"
+        },
+        {
+            "source": "WHERE",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "WHERE",
+            "target": "ApiKey"
+        },
+        {
+            "source": "WHERE",
+            "target": "Tag"
+        },
+        {
+            "source": "WHERE",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "WHERE",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "WHERE",
+            "target": "Video"
+        },
+        {
+            "source": "WHERE",
+            "target": "Localized"
+        },
+        {
+            "source": "WHERE",
+            "target": "Topic"
+        },
+        {
+            "source": "WHERE",
+            "target": "Language"
+        },
+        {
+            "source": "WHERE",
+            "target": "Status"
+        },
+        {
+            "source": "WHERE",
+            "target": "Statistics"
+        },
+        {
+            "source": "WHERE",
+            "target": "PageInfo"
+        },
+        {
+            "source": "ToString",
+            "target": "Kind"
+        },
+        {
+            "source": "ToString",
+            "target": "MissionControl"
+        },
+        {
+            "source": "ToString",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "ToString",
+            "target": "ApiKey"
+        },
+        {
+            "source": "ToString",
+            "target": "Tag"
+        },
+        {
+            "source": "ToString",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "ToString",
+            "target": "Video"
+        },
+        {
+            "source": "ToString",
+            "target": "Localized"
+        },
+        {
+            "source": "ToString",
+            "target": "Topic"
+        },
+        {
+            "source": "ToString",
+            "target": "Language"
+        },
+        {
+            "source": "ToString",
+            "target": "Status"
+        },
+        {
+            "source": "ToString",
+            "target": "Statistics"
+        },
+        {
+            "source": "ToString",
+            "target": "PageInfo"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Kind"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "ApiKey"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Tag"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Video"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Localized"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Topic"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Language"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Status"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "Statistics"
+        },
+        {
+            "source": "EqualsAndHashCode",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Id",
+            "target": "Kind"
+        },
+        {
+            "source": "Id",
+            "target": "MissionControl"
+        },
+        {
+            "source": "Id",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Id",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Id",
+            "target": "Tag"
+        },
+        {
+            "source": "Id",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Id",
+            "target": "VideoService"
+        },
+        {
+            "source": "Id",
+            "target": "Video"
+        },
+        {
+            "source": "Id",
+            "target": "Localized"
+        },
+        {
+            "source": "Id",
+            "target": "Topic"
+        },
+        {
+            "source": "Id",
+            "target": "Language"
+        },
+        {
+            "source": "Id",
+            "target": "Status"
+        },
+        {
+            "source": "Id",
+            "target": "Statistics"
+        },
+        {
+            "source": "Id",
+            "target": "PageInfo"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Kind"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "MissionControl"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "ApiKey"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Tag"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Video"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Localized"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Topic"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Language"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Status"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "Statistics"
+        },
+        {
+            "source": "GeneratedValue",
+            "target": "PageInfo"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Kind"
+        },
+        {
+            "source": "GenerationType",
+            "target": "MissionControl"
+        },
+        {
+            "source": "GenerationType",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "GenerationType",
+            "target": "ApiKey"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Tag"
+        },
+        {
+            "source": "GenerationType",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Video"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Localized"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Topic"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Language"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Status"
+        },
+        {
+            "source": "GenerationType",
+            "target": "Statistics"
+        },
+        {
+            "source": "GenerationType",
+            "target": "PageInfo"
+        },
+        {
+            "source": "SEQUENCE",
+            "target": "MissionControl"
+        },
+        {
+            "source": "SEQUENCE",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "SEQUENCE",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "SEQUENCE",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Column",
+            "target": "Kind"
+        },
+        {
+            "source": "Column",
+            "target": "MissionControl"
+        },
+        {
+            "source": "Column",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Column",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Column",
+            "target": "Tag"
+        },
+        {
+            "source": "Column",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Column",
+            "target": "Video"
+        },
+        {
+            "source": "Column",
+            "target": "Localized"
+        },
+        {
+            "source": "Column",
+            "target": "Topic"
+        },
+        {
+            "source": "Column",
+            "target": "Language"
+        },
+        {
+            "source": "Column",
+            "target": "Status"
+        },
+        {
+            "source": "Column",
+            "target": "Statistics"
+        },
+        {
+            "source": "Column",
+            "target": "PageInfo"
+        },
+        {
+            "source": "Builder",
+            "target": "MissionControl"
+        },
+        {
+            "source": "Builder",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "Builder",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Builder",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Builder",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Builder",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Builder",
+            "target": "Video"
+        },
+        {
+            "source": "Default",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Default",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Default",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Default",
+            "target": "Video"
+        },
+        {
+            "source": "Boolean",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "Boolean",
+            "target": "ApiKey"
+        },
+        {
+            "source": "Boolean",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Boolean",
+            "target": "Video"
+        },
+        {
+            "source": "Boolean",
+            "target": "Status"
+        },
+        {
+            "source": "FALSE",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "FALSE",
+            "target": "ApiKey"
+        },
+        {
+            "source": "FALSE",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "FALSE",
+            "target": "Video"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "ISearchTermRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IKindRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IMissionControlRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IApiKeyRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "Transactional"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "JpaRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "JpaSpecificationExecutor"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "NoRepositoryBean"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "List"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "Optional"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IBaseRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "E"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "Long"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "BaseService"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "ILocalizedRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IStatusRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IStatisticsRepository"
+        },
+        {
+            "source": "IBaseRepository",
+            "target": "IPageInfoRepository"
+        },
+        {
+            "source": "ISearchTermRepository",
+            "target": "Repository"
+        },
+        {
+            "source": "ISearchTermRepository",
+            "target": "List"
+        },
+        {
+            "source": "ISearchTermRepository",
+            "target": "ISearchTermRepository"
+        },
+        {
+            "source": "ISearchTermRepository",
+            "target": "SearchTermService"
+        },
+        {
+            "source": "Repository",
+            "target": "IMissionControlRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IApiKeyRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "ILocalizedRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IStatusRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IStatisticsRepository"
+        },
+        {
+            "source": "Repository",
+            "target": "IPageInfoRepository"
+        },
+        {
+            "source": "List",
+            "target": "SearchTermService"
+        },
+        {
+            "source": "List",
+            "target": "JsonUtil"
+        },
+        {
+            "source": "List",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "List",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "List",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "List",
+            "target": "Start"
+        },
+        {
+            "source": "List",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "List",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "List",
+            "target": "BaseService"
+        },
+        {
+            "source": "List",
+            "target": "TagService"
+        },
+        {
+            "source": "List",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "List",
+            "target": "VideoService"
+        },
+        {
+            "source": "List",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "List",
+            "target": "Video"
+        },
+        {
+            "source": "List",
+            "target": "TopicService"
+        },
+        {
+            "source": "List",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "List",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "List",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "BaseService",
+            "target": "SearchTermService"
+        },
+        {
+            "source": "BaseService",
+            "target": "KindService"
+        },
+        {
+            "source": "BaseService",
+            "target": "ApiKeyService"
+        },
+        {
+            "source": "BaseService",
+            "target": "Autowired"
+        },
+        {
+            "source": "BaseService",
+            "target": "BaseService"
+        },
+        {
+            "source": "BaseService",
+            "target": "R"
+        },
+        {
+            "source": "BaseService",
+            "target": "E"
+        },
+        {
+            "source": "BaseService",
+            "target": "TagService"
+        },
+        {
+            "source": "BaseService",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "BaseService",
+            "target": "VideoService"
+        },
+        {
+            "source": "BaseService",
+            "target": "LocalizedService"
+        },
+        {
+            "source": "BaseService",
+            "target": "TopicService"
+        },
+        {
+            "source": "BaseService",
+            "target": "LanguageService"
+        },
+        {
+            "source": "BaseService",
+            "target": "StatusService"
+        },
+        {
+            "source": "BaseService",
+            "target": "StatisticsService"
+        },
+        {
+            "source": "BaseService",
+            "target": "PageInfoService"
+        },
+        {
+            "source": "SearchTermService",
+            "target": "Autowired"
+        },
+        {
+            "source": "SearchTermService",
+            "target": "Service"
+        },
+        {
+            "source": "SearchTermService",
+            "target": "SearchTermService"
+        },
+        {
+            "source": "SearchTermService",
+            "target": "ReportService"
+        },
+        {
+            "source": "SearchTermService",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "SearchTermService",
+            "target": "Start"
+        },
+        {
+            "source": "Autowired",
+            "target": "KindService"
+        },
+        {
+            "source": "Autowired",
+            "target": "ReportService"
+        },
+        {
+            "source": "Autowired",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "Autowired",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "Autowired",
+            "target": "DatabaseLoaderService"
+        },
+        {
+            "source": "Autowired",
+            "target": "ApiKeyService"
+        },
+        {
+            "source": "Autowired",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "Autowired",
+            "target": "Start"
+        },
+        {
+            "source": "Autowired",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Autowired",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "Autowired",
+            "target": "TagService"
+        },
+        {
+            "source": "Autowired",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "Autowired",
+            "target": "VideoService"
+        },
+        {
+            "source": "Autowired",
+            "target": "TopicService"
+        },
+        {
+            "source": "Autowired",
+            "target": "LanguageService"
+        },
+        {
+            "source": "Autowired",
+            "target": "PageInfoService"
+        },
+        {
+            "source": "Autowired",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "Autowired",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "Autowired",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "Service",
+            "target": "KindService"
+        },
+        {
+            "source": "Service",
+            "target": "ReportService"
+        },
+        {
+            "source": "Service",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "Service",
+            "target": "DatabaseLoaderService"
+        },
+        {
+            "source": "Service",
+            "target": "ApiKeyService"
+        },
+        {
+            "source": "Service",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "Service",
+            "target": "Start"
+        },
+        {
+            "source": "Service",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Service",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "Service",
+            "target": "TagService"
+        },
+        {
+            "source": "Service",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "Service",
+            "target": "VideoService"
+        },
+        {
+            "source": "Service",
+            "target": "LocalizedService"
+        },
+        {
+            "source": "Service",
+            "target": "TopicService"
+        },
+        {
+            "source": "Service",
+            "target": "LanguageService"
+        },
+        {
+            "source": "Service",
+            "target": "StatusService"
+        },
+        {
+            "source": "Service",
+            "target": "StatisticsService"
+        },
+        {
+            "source": "Service",
+            "target": "PageInfoService"
+        },
+        {
+            "source": "KindEnum",
+            "target": "KindEnum"
+        },
+        {
+            "source": "KindEnum",
+            "target": "YOUTUBE_SEARCH_LIST"
+        },
+        {
+            "source": "KindEnum",
+            "target": "YOUTUBE_VIDEO_LIST"
+        },
+        {
+            "source": "KindEnum",
+            "target": "YOUTUBE_VIDEO"
+        },
+        {
+            "source": "KindEnum",
+            "target": "KIND_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "source": "KindEnum",
+            "target": "VARCHAR"
+        },
+        {
+            "source": "KindEnum",
+            "target": "CHECK"
+        },
+        {
+            "source": "KindEnum",
+            "target": "IN"
+        },
+        {
+            "source": "KindEnum",
+            "target": "Kind"
+        },
+        {
+            "source": "KindEnum",
+            "target": "Language"
+        },
+        {
+            "source": "KIND_NULL_CHECK_CONSTRAINT",
+            "target": "Kind"
+        },
+        {
+            "source": "VARCHAR",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "VARCHAR",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "VARCHAR",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "VARCHAR",
+            "target": "Video"
+        },
+        {
+            "source": "CHECK",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "CHECK",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "CHECK",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "IN",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "IN",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "IN",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "KindService",
+            "target": "KindService"
+        },
+        {
+            "source": "KindService",
+            "target": "IKindRepository"
+        },
+        {
+            "source": "KindService",
+            "target": "Kind"
+        },
+        {
+            "source": "KindService",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "KindService",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "IKindRepository",
+            "target": "IKindRepository"
+        },
+        {
+            "source": "IKindRepository",
+            "target": "Kind"
+        },
+        {
+            "source": "Kind",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "Kind",
+            "target": "Kind"
+        },
+        {
+            "source": "Kind",
+            "target": "AUTO"
+        },
+        {
+            "source": "Kind",
+            "target": "CONTENT_TYPE_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "source": "Kind",
+            "target": "Enumerated"
+        },
+        {
+            "source": "Kind",
+            "target": "EnumType"
+        },
+        {
+            "source": "Kind",
+            "target": "STRING"
+        },
+        {
+            "source": "Kind",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "Kind",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Kind",
+            "target": "Video"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "Getter"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "ContentTypeEnum"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "VIDEO"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "COMMENT"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "CONTENT_TYPE_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "Start"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "ContentTypeEnum",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "AUTO",
+            "target": "ApiKey"
+        },
+        {
+            "source": "AUTO",
+            "target": "Tag"
+        },
+        {
+            "source": "AUTO",
+            "target": "Video"
+        },
+        {
+            "source": "AUTO",
+            "target": "Localized"
+        },
+        {
+            "source": "AUTO",
+            "target": "Topic"
+        },
+        {
+            "source": "AUTO",
+            "target": "Language"
+        },
+        {
+            "source": "AUTO",
+            "target": "Status"
+        },
+        {
+            "source": "AUTO",
+            "target": "Statistics"
+        },
+        {
+            "source": "CONTENT_TYPE_NULL_CHECK_CONSTRAINT",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Enumerated",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Enumerated",
+            "target": "Video"
+        },
+        {
+            "source": "EnumType",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "EnumType",
+            "target": "Video"
+        },
+        {
+            "source": "STRING",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "STRING",
+            "target": "Video"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "ReportService"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "Optional"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "ApiKeyService"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "IApiKeyRepository"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "ApiKey"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "Start"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "ApiKeyService",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "ReportService",
+            "target": "MissionControl"
+        },
+        {
+            "source": "ReportService",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "ReportService",
+            "target": "TagService"
+        },
+        {
+            "source": "ReportService",
+            "target": "VideoService"
+        },
+        {
+            "source": "ReportService",
+            "target": "TopicService"
+        },
+        {
+            "source": "ReportService",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "ReportService",
+            "target": "PostConstruct"
+        },
+        {
+            "source": "ReportService",
+            "target": "PreDestroy"
+        },
+        {
+            "source": "ReportService",
+            "target": "Value"
+        },
+        {
+            "source": "ReportService",
+            "target": "FileWriter"
+        },
+        {
+            "source": "ReportService",
+            "target": "PrintWriter"
+        },
+        {
+            "source": "ReportService",
+            "target": "Duration"
+        },
+        {
+            "source": "ReportService",
+            "target": "Instant"
+        },
+        {
+            "source": "ReportService",
+            "target": "ZoneId"
+        },
+        {
+            "source": "ReportService",
+            "target": "DateTimeFormatter"
+        },
+        {
+            "source": "ReportService",
+            "target": "ReportService"
+        },
+        {
+            "source": "ReportService",
+            "target": "PROGRAMMING_LANGUAGE_MINING_FLAG"
+        },
+        {
+            "source": "ReportService",
+            "target": "SEARCH_TERMS"
+        },
+        {
+            "source": "ReportService",
+            "target": "VIDEO_AMOUNT"
+        },
+        {
+            "source": "ReportService",
+            "target": "MM"
+        },
+        {
+            "source": "ReportService",
+            "target": "HH"
+        },
+        {
+            "source": "ReportService",
+            "target": "RELAT\u00d3RIO"
+        },
+        {
+            "source": "ReportService",
+            "target": "DE"
+        },
+        {
+            "source": "ReportService",
+            "target": "CONFIGURA\u00c7\u00c3O"
+        },
+        {
+            "source": "ReportService",
+            "target": "MINERA\u00c7\u00c3O"
+        },
+        {
+            "source": "ReportService",
+            "target": "V\u00cdDEOS"
+        },
+        {
+            "source": "ReportService",
+            "target": "Utilizado"
+        },
+        {
+            "source": "ReportService",
+            "target": "Integer"
+        },
+        {
+            "source": "ReportService",
+            "target": "Requisi\u00e7\u00f5es"
+        },
+        {
+            "source": "ReportService",
+            "target": "YouTube"
+        },
+        {
+            "source": "ReportService",
+            "target": "DIRETIVA"
+        },
+        {
+            "source": "ReportService",
+            "target": "DA"
+        },
+        {
+            "source": "ReportService",
+            "target": "PADR\u00c3O"
+        },
+        {
+            "source": "ReportService",
+            "target": "Continuar"
+        },
+        {
+            "source": "ReportService",
+            "target": "Minera\u00e7\u00e3o"
+        },
+        {
+            "source": "ReportService",
+            "target": "API"
+        },
+        {
+            "source": "ReportService",
+            "target": "Tempo"
+        },
+        {
+            "source": "ReportService",
+            "target": "Tags"
+        },
+        {
+            "source": "ReportService",
+            "target": "In\u00edcio"
+        },
+        {
+            "source": "ReportService",
+            "target": "Fim"
+        },
+        {
+            "source": "ReportService",
+            "target": "System"
+        },
+        {
+            "source": "ReportService",
+            "target": "Topicos"
+        },
+        {
+            "source": "ReportService",
+            "target": "Start"
+        },
+        {
+            "source": "MissionControl",
+            "target": "MissionControl"
+        },
+        {
+            "source": "MissionControl",
+            "target": "IMissionControlRepository"
+        },
+        {
+            "source": "MissionControl",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "GoogleNetHttpTransport"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "NetHttpTransport"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "JsonFactory"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "JacksonFactory"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "YouTube"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "SearchListResponse"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "ApiKey"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "ApiKeyException"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Duration"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "LocalDateTime"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Optional"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "MissionControlService"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "IMissionControlRepository"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "EnvironmentChecker"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "JSON_FACTORY"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "APPLICATION_NAME"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Miner"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "VIDEO_TYPE"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "VIDEO_DETAILS_FIELDS"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "MISSION_CODE"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "YOUTUBE_MINER"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "QUOTA_EXCEDED_MESSAGE"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "The"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "COMMENTS_DISABLED"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "System"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Miera\u00e7\u00e3o"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "API"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Nesse"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Chave"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Exception"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Search"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Teste"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "Start"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "MissionControlService",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "TagService",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "TagService",
+            "target": "Optional"
+        },
+        {
+            "source": "TagService",
+            "target": "Collectors"
+        },
+        {
+            "source": "TagService",
+            "target": "TagService"
+        },
+        {
+            "source": "TagService",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "TagService",
+            "target": "Tag"
+        },
+        {
+            "source": "TagService",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "VideoService",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "VideoService",
+            "target": "Start"
+        },
+        {
+            "source": "VideoService",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "VideoService",
+            "target": "EntityNotFoundException"
+        },
+        {
+            "source": "VideoService",
+            "target": "HttpStatus"
+        },
+        {
+            "source": "VideoService",
+            "target": "Collectors"
+        },
+        {
+            "source": "VideoService",
+            "target": "VideoService"
+        },
+        {
+            "source": "VideoService",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "VideoService",
+            "target": "Video"
+        },
+        {
+            "source": "VideoService",
+            "target": "NOT_FOUND"
+        },
+        {
+            "source": "VideoService",
+            "target": "Long"
+        },
+        {
+            "source": "TopicService",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "TopicService",
+            "target": "Optional"
+        },
+        {
+            "source": "TopicService",
+            "target": "Collectors"
+        },
+        {
+            "source": "TopicService",
+            "target": "TopicService"
+        },
+        {
+            "source": "TopicService",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "TopicService",
+            "target": "Topic"
+        },
+        {
+            "source": "YouTubeSearchListPageResponseService",
+            "target": "Start"
+        },
+        {
+            "source": "YouTubeSearchListPageResponseService",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "YouTubeSearchListPageResponseService",
+            "target": "YouTubeSearchListPageResponseService"
+        },
+        {
+            "source": "YouTubeSearchListPageResponseService",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "YouTubeSearchListPageResponseService",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Value",
+            "target": "EnvironmentChecker"
+        },
+        {
+            "source": "Value",
+            "target": "Start"
+        },
+        {
+            "source": "Value",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Value",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "Instant",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "PROGRAMMING_LANGUAGE_MINING_FLAG",
+            "target": "Start"
+        },
+        {
+            "source": "PROGRAMMING_LANGUAGE_MINING_FLAG",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "SEARCH_TERMS",
+            "target": "Start"
+        },
+        {
+            "source": "VIDEO_AMOUNT",
+            "target": "Start"
+        },
+        {
+            "source": "DE",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "MINERA\u00c7\u00c3O",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "MINERA\u00c7\u00c3O",
+            "target": "Start"
+        },
+        {
+            "source": "Integer",
+            "target": "VideoUtils"
+        },
+        {
+            "source": "Integer",
+            "target": "Start"
+        },
+        {
+            "source": "Integer",
+            "target": "PageInfo"
+        },
+        {
+            "source": "YouTube",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "DA",
+            "target": "Start"
+        },
+        {
+            "source": "API",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "System",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "System",
+            "target": "Start"
+        },
+        {
+            "source": "Gson",
+            "target": "JsonUtil"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "GsonBuilder"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "UtilityClass"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "JSONException"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "JSONObject"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "StreamUtils"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "InputStream"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "Type"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "StandardCharsets"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "LocalDateTime"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "JsonUtil"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "T"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "LocalDateTimeAdapter"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "RuntimeException"
+        },
+        {
+            "source": "JsonUtil",
+            "target": "UTF_8"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "TypeToken"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "ApiKey"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "DatabaseLoaderService"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "Log"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "ApplicationReadyEvent"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "Configuration"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "EventListener"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "ArrayList"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "BootstrapOnReady"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "PATH_JSON_API_KEYS"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "PATH_JSON_KIND"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "PATH_JSON_SEARCH_TERM"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "Exception"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "A"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "Api"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "Erro"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "O"
+        },
+        {
+            "source": "BootstrapOnReady",
+            "target": "Start"
+        },
+        {
+            "source": "UtilityClass",
+            "target": "VideoUtils"
+        },
+        {
+            "source": "LocalDateTime",
+            "target": "LocalDateTimeAdapter"
+        },
+        {
+            "source": "LocalDateTime",
+            "target": "ApiKey"
+        },
+        {
+            "source": "LocalDateTime",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "LocalDateTimeAdapter",
+            "target": "TypeAdapter"
+        },
+        {
+            "source": "LocalDateTimeAdapter",
+            "target": "JsonReader"
+        },
+        {
+            "source": "LocalDateTimeAdapter",
+            "target": "JsonWriter"
+        },
+        {
+            "source": "LocalDateTimeAdapter",
+            "target": "LocalDateTimeAdapter"
+        },
+        {
+            "source": "LocalDateTimeAdapter",
+            "target": "Override"
+        },
+        {
+            "source": "RuntimeException",
+            "target": "HttpException"
+        },
+        {
+            "source": "RuntimeException",
+            "target": "ApiException"
+        },
+        {
+            "source": "RuntimeException",
+            "target": "EntityNullException"
+        },
+        {
+            "source": "RuntimeException",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "UUID",
+            "target": "HashUtils"
+        },
+        {
+            "source": "HashUtils",
+            "target": "HashUtils"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "BigInteger"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "Matcher"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "Pattern"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "VideoUtils"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "VideoUtils",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "BigInteger",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "BigInteger",
+            "target": "Statistics"
+        },
+        {
+            "source": "BigInteger",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "Collection",
+            "target": "ValidationUtil"
+        },
+        {
+            "source": "ValidationUtil",
+            "target": "ValidationUtil"
+        },
+        {
+            "source": "ValidationUtil",
+            "target": "Object"
+        },
+        {
+            "source": "ValidationUtil",
+            "target": "DatabaseLoaderService"
+        },
+        {
+            "source": "ValidationUtil",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "Object",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Object",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "Getter",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "Getter",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "ProgrammingLanguageEnum"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "PYTHON"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "JAVA"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "C"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "CPP"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "CSHARP"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "JAVASCRIPT"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "TYPESCRIPT"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "PHP"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "SHELL"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "RUBY"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "OTHER"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "NOT_SPECIFIED"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "PROGRAMMING_LANGUAGE_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "ProgrammingLanguageEnum",
+            "target": "Video"
+        },
+        {
+            "source": "PYTHON",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "JAVA",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "C",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "CPP",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "CSHARP",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "JAVASCRIPT",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "TYPESCRIPT",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "PHP",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "SHELL",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "RUBY",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "OTHER",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "NOT_SPECIFIED",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "NOT_SPECIFIED",
+            "target": "Video"
+        },
+        {
+            "source": "PROGRAMMING_LANGUAGE_NULL_CHECK_CONSTRAINT",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "PROGRAMMING_LANGUAGE_NULL_CHECK_CONSTRAINT",
+            "target": "Video"
+        },
+        {
+            "source": "VIDEO",
+            "target": "Start"
+        },
+        {
+            "source": "VIDEO",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "AnalyzedAsEnum",
+            "target": "AnalyzedAsEnum"
+        },
+        {
+            "source": "AnalyzedAsEnum",
+            "target": "PROGRAMMING_LANGUAGE_NOT_IDENTIFIED"
+        },
+        {
+            "source": "AnalyzedAsEnum",
+            "target": "ANALYZED_AS_NULL_CHECK_CONSTRAINT"
+        },
+        {
+            "source": "AnalyzedAsEnum",
+            "target": "Video"
+        },
+        {
+            "source": "PROGRAMMING_LANGUAGE_NOT_IDENTIFIED",
+            "target": "Video"
+        },
+        {
+            "source": "ANALYZED_AS_NULL_CHECK_CONSTRAINT",
+            "target": "Video"
+        },
+        {
+            "source": "IMissionControlRepository",
+            "target": "IMissionControlRepository"
+        },
+        {
+            "source": "EnvironmentChecker",
+            "target": "PropertySource"
+        },
+        {
+            "source": "EnvironmentChecker",
+            "target": "Component"
+        },
+        {
+            "source": "EnvironmentChecker",
+            "target": "EnvironmentChecker"
+        },
+        {
+            "source": "EnvironmentChecker",
+            "target": "Outros"
+        },
+        {
+            "source": "EnvironmentChecker",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "EnvironmentChecker",
+            "target": "Start"
+        },
+        {
+            "source": "GoogleNetHttpTransport",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "NetHttpTransport",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "JsonFactory",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "JacksonFactory",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "SearchListResponse",
+            "target": "Start"
+        },
+        {
+            "source": "SearchListResponse",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "SearchListResponse",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "ApiKey",
+            "target": "ApiKey"
+        },
+        {
+            "source": "ApiKey",
+            "target": "IApiKeyRepository"
+        },
+        {
+            "source": "ApiKey",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "ApiKeyException",
+            "target": "Start"
+        },
+        {
+            "source": "ApiKeyException",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "ApiKeyException",
+            "target": "ApiKeyException"
+        },
+        {
+            "source": "ApiKeyException",
+            "target": "Exception"
+        },
+        {
+            "source": "ApiKeyException",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "Optional",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "Optional",
+            "target": "IApiKeyRepository"
+        },
+        {
+            "source": "Optional",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "Optional",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "Optional",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "Optional",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "Optional",
+            "target": "LanguageService"
+        },
+        {
+            "source": "Optional",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "Optional",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "Optional",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "JSON_FACTORY",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "APPLICATION_NAME",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Miner",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "VIDEO_TYPE",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "VIDEO_DETAILS_FIELDS",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "Exception",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "Exception",
+            "target": "Start"
+        },
+        {
+            "source": "Search",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "DatabaseLoaderService",
+            "target": "EntityNullException"
+        },
+        {
+            "source": "DatabaseLoaderService",
+            "target": "Log"
+        },
+        {
+            "source": "DatabaseLoaderService",
+            "target": "DatabaseLoaderService"
+        },
+        {
+            "source": "DatabaseLoaderService",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "DatabaseLoaderService",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "DatabaseLoaderService",
+            "target": "Nenhuma"
+        },
+        {
+            "source": "Log",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "ApplicationReadyEvent",
+            "target": "Start"
+        },
+        {
+            "source": "Configuration",
+            "target": "AppConfig"
+        },
+        {
+            "source": "EventListener",
+            "target": "Start"
+        },
+        {
+            "source": "ArrayList",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "ArrayList",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "ArrayList",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "Bean",
+            "target": "AppConfig"
+        },
+        {
+            "source": "AppConfig",
+            "target": "PropertySourcesPlaceholderConfigurer"
+        },
+        {
+            "source": "AppConfig",
+            "target": "AppConfig"
+        },
+        {
+            "source": "DatabaseLoader",
+            "target": "Serializable"
+        },
+        {
+            "source": "DatabaseLoader",
+            "target": "DatabaseLoader"
+        },
+        {
+            "source": "DatabaseLoader",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "JpaRepository",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "IDatabaseLoaderRepository",
+            "target": "IDatabaseLoaderRepository"
+        },
+        {
+            "source": "IDatabaseLoaderRepository",
+            "target": "Long"
+        },
+        {
+            "source": "Long",
+            "target": "Start"
+        },
+        {
+            "source": "Long",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "EntityNullException",
+            "target": "EntityNullException"
+        },
+        {
+            "source": "IApiKeyRepository",
+            "target": "IApiKeyRepository"
+        },
+        {
+            "source": "VideoListResponse",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "VideoListResponse",
+            "target": "Start"
+        },
+        {
+            "source": "VideoListResponse",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "VideoListResponse",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "Unused"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "Video"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "Transactional"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "Collectors"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "MineVideoDurationScript"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "SESS\u00c3O"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "COMPLEMENTAR"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "COMPLETA"
+        },
+        {
+            "source": "MineVideoDurationScript",
+            "target": "Start"
+        },
+        {
+            "source": "Unused",
+            "target": "Unused"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Start"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "PageInfo"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "PageInfoService"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Tag"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Video"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "LanguageService"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Localized"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "LocalizedService"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Statistics"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "StatisticsService"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Status"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "StatusService"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Topic"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Transactional"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Date"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "Collectors"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "VideoDataProcessor"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "CONTENT_TYPE"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "VideoSnippet"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "VideoStatus"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "VideoStatistics"
+        },
+        {
+            "source": "VideoDataProcessor",
+            "target": "VideoTopicDetails"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "Start"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "GoogleJsonResponseException"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "Collectors"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "VideoMiner"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "MAX_RESULTS"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "InterruptedException"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "N\u00famero"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "Thread"
+        },
+        {
+            "source": "VideoMiner",
+            "target": "Videos"
+        },
+        {
+            "source": "Video",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Video",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "Video",
+            "target": "Tag"
+        },
+        {
+            "source": "Video",
+            "target": "Language"
+        },
+        {
+            "source": "Video",
+            "target": "Localized"
+        },
+        {
+            "source": "Video",
+            "target": "Statistics"
+        },
+        {
+            "source": "Video",
+            "target": "Status"
+        },
+        {
+            "source": "Video",
+            "target": "Topic"
+        },
+        {
+            "source": "Video",
+            "target": "Date"
+        },
+        {
+            "source": "Video",
+            "target": "Video"
+        },
+        {
+            "source": "Video",
+            "target": "TEXT"
+        },
+        {
+            "source": "Video",
+            "target": "ManyToMany"
+        },
+        {
+            "source": "Video",
+            "target": "CascadeType"
+        },
+        {
+            "source": "Video",
+            "target": "MERGE"
+        },
+        {
+            "source": "Video",
+            "target": "OneToOne"
+        },
+        {
+            "source": "Video",
+            "target": "ManyToOne"
+        },
+        {
+            "source": "Video",
+            "target": "JoinColumn"
+        },
+        {
+            "source": "Video",
+            "target": "FetchType"
+        },
+        {
+            "source": "Video",
+            "target": "EAGER"
+        },
+        {
+            "source": "Video",
+            "target": "OneToMany"
+        },
+        {
+            "source": "Video",
+            "target": "TRUE"
+        },
+        {
+            "source": "Video",
+            "target": "LAZY"
+        },
+        {
+            "source": "Start",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "Start",
+            "target": "Profile"
+        },
+        {
+            "source": "Start",
+            "target": "Start"
+        },
+        {
+            "source": "Start",
+            "target": "DURA\u00c7\u00c3O"
+        },
+        {
+            "source": "Start",
+            "target": "DOS"
+        },
+        {
+            "source": "Start",
+            "target": "VIDEOS"
+        },
+        {
+            "source": "Start",
+            "target": "DESABILITADA"
+        },
+        {
+            "source": "Start",
+            "target": "Math"
+        },
+        {
+            "source": "Start",
+            "target": "InterruptedException"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "PageInfo"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "YouTubeSearchListPageResponse"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "ManyToOne"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "JoinColumn"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "OneToOne"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "OneToMany"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "CascadeType"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "MERGE"
+        },
+        {
+            "source": "YouTubeSearchListPageResponse",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "PageInfo",
+            "target": "PageInfoService"
+        },
+        {
+            "source": "PageInfo",
+            "target": "PageInfo"
+        },
+        {
+            "source": "PageInfo",
+            "target": "IPageInfoRepository"
+        },
+        {
+            "source": "PageInfoService",
+            "target": "PageInfoService"
+        },
+        {
+            "source": "PageInfoService",
+            "target": "IPageInfoRepository"
+        },
+        {
+            "source": "Tag",
+            "target": "Tag"
+        },
+        {
+            "source": "Tag",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "Tag",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "LanguageService",
+            "target": "LanguageService"
+        },
+        {
+            "source": "LanguageService",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "LanguageService",
+            "target": "Language"
+        },
+        {
+            "source": "LanguageService",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "Localized",
+            "target": "Localized"
+        },
+        {
+            "source": "Localized",
+            "target": "TEXT"
+        },
+        {
+            "source": "Localized",
+            "target": "OneToOne"
+        },
+        {
+            "source": "Localized",
+            "target": "FetchType"
+        },
+        {
+            "source": "Localized",
+            "target": "LAZY"
+        },
+        {
+            "source": "Localized",
+            "target": "JoinColumn"
+        },
+        {
+            "source": "Localized",
+            "target": "LocalizedService"
+        },
+        {
+            "source": "Localized",
+            "target": "ILocalizedRepository"
+        },
+        {
+            "source": "LocalizedService",
+            "target": "LocalizedService"
+        },
+        {
+            "source": "LocalizedService",
+            "target": "ILocalizedRepository"
+        },
+        {
+            "source": "Statistics",
+            "target": "IStatisticsRepository"
+        },
+        {
+            "source": "Statistics",
+            "target": "Statistics"
+        },
+        {
+            "source": "Statistics",
+            "target": "OneToOne"
+        },
+        {
+            "source": "Statistics",
+            "target": "JoinColumn"
+        },
+        {
+            "source": "Statistics",
+            "target": "StatisticsService"
+        },
+        {
+            "source": "StatisticsService",
+            "target": "StatisticsService"
+        },
+        {
+            "source": "StatisticsService",
+            "target": "IStatisticsRepository"
+        },
+        {
+            "source": "Status",
+            "target": "IStatusRepository"
+        },
+        {
+            "source": "Status",
+            "target": "Status"
+        },
+        {
+            "source": "Status",
+            "target": "OneToOne"
+        },
+        {
+            "source": "Status",
+            "target": "JoinColumn"
+        },
+        {
+            "source": "Status",
+            "target": "StatusService"
+        },
+        {
+            "source": "StatusService",
+            "target": "StatusService"
+        },
+        {
+            "source": "StatusService",
+            "target": "IStatusRepository"
+        },
+        {
+            "source": "Topic",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "Topic",
+            "target": "Topic"
+        },
+        {
+            "source": "Topic",
+            "target": "ManyToOne"
+        },
+        {
+            "source": "Topic",
+            "target": "FetchType"
+        },
+        {
+            "source": "Topic",
+            "target": "LAZY"
+        },
+        {
+            "source": "Topic",
+            "target": "JoinColumn"
+        },
+        {
+            "source": "HttpStatus",
+            "target": "InvalidTokenException"
+        },
+        {
+            "source": "HttpStatus",
+            "target": "HttpException"
+        },
+        {
+            "source": "HttpStatus",
+            "target": "ForbbidenException"
+        },
+        {
+            "source": "HttpStatus",
+            "target": "EntityNotFoundException"
+        },
+        {
+            "source": "HttpStatus",
+            "target": "UnauthorizedException"
+        },
+        {
+            "source": "HttpStatus",
+            "target": "BadRequestException"
+        },
+        {
+            "source": "InvalidTokenException",
+            "target": "ResponseStatus"
+        },
+        {
+            "source": "InvalidTokenException",
+            "target": "FORBIDDEN"
+        },
+        {
+            "source": "InvalidTokenException",
+            "target": "InvalidTokenException"
+        },
+        {
+            "source": "InvalidTokenException",
+            "target": "ForbbidenException"
+        },
+        {
+            "source": "ResponseStatus",
+            "target": "ForbbidenException"
+        },
+        {
+            "source": "ResponseStatus",
+            "target": "EntityNotFoundException"
+        },
+        {
+            "source": "ResponseStatus",
+            "target": "UnauthorizedException"
+        },
+        {
+            "source": "ResponseStatus",
+            "target": "BadRequestException"
+        },
+        {
+            "source": "FORBIDDEN",
+            "target": "ForbbidenException"
+        },
+        {
+            "source": "ForbbidenException",
+            "target": "ForbbidenException"
+        },
+        {
+            "source": "ForbbidenException",
+            "target": "HttpException"
+        },
+        {
+            "source": "HttpException",
+            "target": "HttpException"
+        },
+        {
+            "source": "HttpException",
+            "target": "BAD_REQUEST"
+        },
+        {
+            "source": "HttpException",
+            "target": "EntityNotFoundException"
+        },
+        {
+            "source": "HttpException",
+            "target": "UnauthorizedException"
+        },
+        {
+            "source": "HttpException",
+            "target": "BadRequestException"
+        },
+        {
+            "source": "BAD_REQUEST",
+            "target": "BadRequestException"
+        },
+        {
+            "source": "ApiException",
+            "target": "ApiException"
+        },
+        {
+            "source": "EntityNotFoundException",
+            "target": "NOT_FOUND"
+        },
+        {
+            "source": "EntityNotFoundException",
+            "target": "EntityNotFoundException"
+        },
+        {
+            "source": "UnauthorizedException",
+            "target": "UNAUTHORIZED"
+        },
+        {
+            "source": "UnauthorizedException",
+            "target": "UnauthorizedException"
+        },
+        {
+            "source": "BadRequestException",
+            "target": "BadRequestException"
+        },
+        {
+            "source": "ITagRepository",
+            "target": "ITagRepository"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "Query"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "Param"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "IYouTubeSearchListPageResponseRepository"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "SELECT"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "FROM"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "ORDER"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "BY"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "DESC"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "LIMIT"
+        },
+        {
+            "source": "IYouTubeSearchListPageResponseRepository",
+            "target": "AND"
+        },
+        {
+            "source": "Query",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "SELECT",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "FROM",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "ORDER",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "BY",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "LIMIT",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "IVideoRepository",
+            "target": "IVideoRepository"
+        },
+        {
+            "source": "IVideoRepository",
+            "target": "COUNT"
+        },
+        {
+            "source": "IVideoRepository",
+            "target": "DISTINCT"
+        },
+        {
+            "source": "IVideoRepository",
+            "target": "ON"
+        },
+        {
+            "source": "IVideoRepository",
+            "target": "ASC"
+        },
+        {
+            "source": "Language",
+            "target": "Language"
+        },
+        {
+            "source": "Language",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "Language",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "ILocalizedRepository",
+            "target": "ILocalizedRepository"
+        },
+        {
+            "source": "ITopicRepository",
+            "target": "ITopicRepository"
+        },
+        {
+            "source": "ILanguageRepository",
+            "target": "ILanguageRepository"
+        },
+        {
+            "source": "ILanguageRepository",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "IStatusRepository",
+            "target": "IStatusRepository"
+        },
+        {
+            "source": "IStatisticsRepository",
+            "target": "IStatisticsRepository"
+        },
+        {
+            "source": "IPageInfoRepository",
+            "target": "IPageInfoRepository"
+        },
+        {
+            "source": "Test",
+            "target": "TubeMinerApplicationTests"
+        },
+        {
+            "source": "Test",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "Test",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "Test",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "Test",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "Test",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "TubeMinerApplicationTests",
+            "target": "SpringBootTest"
+        },
+        {
+            "source": "TubeMinerApplicationTests",
+            "target": "TubeMinerApplicationTests"
+        },
+        {
+            "source": "SpringBootTest",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "SpringBootTest",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "SpringBootTest",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "SpringBootTest",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "SpringBootTest",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "MissionControlServiceTest",
+            "target": "ActiveProfiles"
+        },
+        {
+            "source": "MissionControlServiceTest",
+            "target": "AssertionsForInterfaceTypes"
+        },
+        {
+            "source": "MissionControlServiceTest",
+            "target": "MissionControlServiceTest"
+        },
+        {
+            "source": "ValidationUtilTest",
+            "target": "Assertions"
+        },
+        {
+            "source": "ValidationUtilTest",
+            "target": "ValidationUtilTest"
+        },
+        {
+            "source": "ValidationUtilTest",
+            "target": "Hello"
+        },
+        {
+            "source": "ValidationUtilTest",
+            "target": "Spaces"
+        },
+        {
+            "source": "Assertions",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "Assertions",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "VideoUtilsTest"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "PT10H28M56S"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "PT45M30S"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "PT2H"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "PT3H15S"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "PT50S"
+        },
+        {
+            "source": "VideoUtilsTest",
+            "target": "PT3H15M"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "BeforeEach"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "Mock"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "Mockito"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "MockitoAnnotations"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "Assert"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "LanguageServiceTest"
+        },
+        {
+            "source": "LanguageServiceTest",
+            "target": "You"
+        },
+        {
+            "source": "TagServiceTest",
+            "target": "Arrays"
+        },
+        {
+            "source": "TagServiceTest",
+            "target": "TagServiceTest"
+        },
+        {
+            "source": "TagServiceTest",
+            "target": "Tag1"
+        },
+        {
+            "source": "TagServiceTest",
+            "target": "Tag2"
+        },
+        {
+            "source": "TagServiceTest",
+            "target": "Tag3"
+        },
+        {
+            "source": "TagServiceTest",
+            "target": "NewTag"
+        }
+    ]
+}
