@@ -1,0 +1,373 @@
+{
+  "search_term": [
+    {
+      "term": "Computer Science"
+    },
+    {
+      "term": "Information Technology"
+    },
+    {
+      "term": "Software Engineering"
+    },
+    {
+      "term": "Computer Engineering"
+    },
+    {
+      "term": "Data Science"
+    },
+    {
+      "term": "Artificial Intelligence"
+    },
+    {
+      "term": "Web Development"
+    },
+    {
+      "term": "Computer Programming"
+    },
+    {
+      "term": "Learn Programming"
+    },
+    {
+      "term": "Advanced Programming"
+    },
+    {
+      "term": "Programming Course"
+    },
+    {
+      "term": "Programming Tutorial"
+    },
+    {
+      "term": "Programming Tips"
+    },
+    {
+      "term": "Math for programming"
+    },
+    {
+      "term": "Web Development Basics"
+    },
+    {
+      "term": "Data Structures Explained"
+    },
+    {
+      "term": "Algorithm Design Techniques"
+    },
+    {
+      "term": "Machine Learning Fundamentals"
+    },
+    {
+      "term": "DevOps Best Practices"
+    },
+    {
+      "term": "Full Stack Development"
+    },
+    {
+      "term": "Cloud Computing"
+    },
+    {
+      "term": "Git and GitHub Workflow"
+    },
+    {
+      "term": "Version Control in Git"
+    },
+    {
+      "term": "Social Media API Integration"
+    },
+    {
+      "term": "RESTful API Development"
+    },
+    {
+      "term": "GraphQL API Development"
+    },
+    {
+      "term": "UI/UX Design Principles"
+    },
+    {
+      "term": "Data Visualization Tools"
+    },
+    {
+      "term": "Progressive Web Apps (PWA)"
+    },
+    {
+      "term": "Windows Desktop Applications"
+    },
+    {
+      "term": "Cross-Platform Development"
+    },
+    {
+      "term": "Software Design Patterns"
+    },
+    {
+      "term": "Test-Driven Development"
+    },
+    {
+      "term": "Serverless Computing"
+    },
+    {
+      "term": "Databases and ORM"
+    },
+    {
+      "term": "Cloud-Native Applications"
+    },
+    {
+      "term": "Microservices Architecture"
+    },
+    {
+      "term": "Virtual Reality Development"
+    },
+    {
+      "term": "Augmented Reality Development"
+    },
+    {
+      "term": "Natural Language Processing"
+    },
+    {
+      "term": "Reinforcement Learning"
+    },
+    {
+      "term": "Big Data Analytics"
+    },
+    {
+      "term": "Data Warehousing Solutions"
+    },
+    {
+      "term": "Cross-Browser Compatibility"
+    },
+    {
+      "term": "Deep Reinforcement Learning"
+    },
+    {
+      "term": "Software Containers in Depth"
+    },
+    {
+      "term": "Data Science Pipelines"
+    },
+    {
+      "term": "Natural Language Generation"
+    },
+    {
+      "term": "Data Warehousing Technologies"
+    },
+    {
+      "term": "Beginner Coding Tips"
+    },
+    {
+      "term": "Intermediate Programming Concepts"
+    },
+    {
+      "term": "Advanced Software Development"
+    },
+    {
+      "term": "Algorithmic Problem Solving"
+    },
+    {
+      "term": "Machine Learning Explained"
+    },
+    {
+      "term": "Artificial Intelligence Projects"
+    },
+    {
+      "term": "Backend Development Strategies"
+    },
+    {
+      "term": "Software Architecture Discussions"
+    },
+    {
+      "term": "Data Science Explorations"
+    },
+    {
+      "term": "Deep Learning Concepts"
+    },
+    {
+      "term": "Cloud Computing Insights"
+    },
+    {
+      "term": "Version Control Tutorials"
+    },
+    {
+      "term": "Programming for Electronics"
+    },
+    {
+      "term": "API Development Principles"
+    },
+    {
+      "term": "Data Visualization Techniques"
+    },
+    {
+      "term": "Data Analysis Tools"
+    },
+    {
+      "term": "Software Design Concepts"
+    },
+    {
+      "term": "Code Review Guidelines"
+    },
+    {
+      "term": "Desktop Software Development"
+    },
+    {
+      "term": "Serverless Architecture"
+    },
+    {
+      "term": "Advanced Programming Concepts"
+    },
+    {
+      "term": "Cloud-Native Applications"
+    },
+    {
+      "term": "Data Streaming Solutions"
+    },
+    {
+      "term": "Web Services Exploration"
+    },
+    {
+      "term": "Data Cleaning Strategies"
+    },
+    {
+      "term": "Concurrency and Parallelism"
+    },
+    {
+      "term": "Coding Practices"
+    },
+    {
+      "term": "Design Patterns Insights"
+    },
+    {
+      "term": "Automation and Scripting"
+    },
+    {
+      "term": "Software Testing Strategies"
+    },
+    {
+      "term": "Intermediate Programming Concepts"
+    },
+    {
+      "term": "Advanced Software Development"
+    },
+    {
+      "term": "Web Development Fundamentals"
+    },
+    {
+      "term": "Algorithmic Problem Solving"
+    },
+    {
+      "term": "Mobile App Development Insights"
+    },
+    {
+      "term": "Machine Learning Explained"
+    },
+    {
+      "term": "Software Architecture Discussions"
+    },
+    {
+      "term": "Data Science Explorations"
+    },
+    {
+      "term": "Deep Learning Concepts"
+    },
+    {
+      "term": "Cloud Computing Insights"
+    },
+    {
+      "term": "Programming for Electronics"
+    },
+    {
+      "term": "API Development Principles"
+    },
+    {
+      "term": "Data Visualization Techniques"
+    },
+    {
+      "term": "Mobile App Development"
+    },
+    {
+      "term": "Software Design Concepts"
+    },
+    {
+      "term": "Continuous Integration (CI)"
+    },
+    {
+      "term": "Data Analytics Tools"
+    },
+    {
+      "term": "Mobile App Design"
+    },
+    {
+      "term": "Desktop Software Development"
+    },
+    {
+      "term": "Serverless Architecture"
+    },
+    {
+      "term": "Advanced Programming Concepts"
+    },
+    {
+      "term": "Cloud-Native Applications"
+    },
+    {
+      "term": "Microservices Insights"
+    },
+    {
+      "term": "Natural Language Processing"
+    },
+    {
+      "term": "Reinforcement Learning"
+    },
+    {
+      "term": "Big Data Concepts"
+    },
+    {
+      "term": "Data Warehousing Strategies"
+    },
+    {
+      "term": "Realtime Database Techniques"
+    },
+    {
+      "term": "Data Streaming Solutions"
+    },
+    {
+      "term": "Continuous Delivery (CD)"
+    },
+    {
+      "term": "Container Orchestration"
+    },
+    {
+      "term": "Cloud Functions Explained"
+    },
+    {
+      "term": "Cross-Browser Compatibility"
+    },
+    {
+      "term": "CI/CD Pipeline Insights"
+    },
+    {
+      "term": "Web Development Strategies"
+    },
+    {
+      "term": "Language Processing Techniques"
+    },
+    {
+      "term": "Data Analysis Explained"
+    },
+    {
+      "term": "Data Cleaning Strategies"
+    },
+    {
+      "term": "Concurrency and Parallelism"
+    },
+    {
+      "term": "Coding Practices"
+    },
+    {
+      "term": "Design Patterns Insights"
+    },
+    {
+      "term": "Data Transformation Techniques"
+    },
+    {
+      "term": "Data Mining Insights"
+    },
+    {
+      "term": "Software Testing Strategies"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3.js Example</title>
+    <style>
+        body {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+
+    <script type="module">
+
+        import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+        document.addEventListener("DOMContentLoaded", function () {
+            d3.json("graph.json").then(function (data) {
+                createChart(data);
+            }).catch(function (error) {
+                console.error("Erro ao carregar os dados:", error);
+            });
+
+            function createChart(data) {
+                const width = window.innerWidth;
+                const height = window.innerHeight;
+                const color = d3.scaleOrdinal(d3.schemeCategory10);
+                const links = data.links.map(d => ({ ...d }));
+                const nodes = data.nodes.map(d => ({ ...d }));
+
+                const simulation = d3.forceSimulation(nodes)
+                    .force("link", d3.forceLink(links).id(d => d.id))
+                    .force("charge", d3.forceManyBody())
+                    .force("x", d3.forceX())
+                    .force("y", d3.forceY());
+
+                const svg = d3.select("body").append("svg")
+                    .attr("class", "svg-view")
+                    .attr("width", width)
+                    .attr("height", height)
+                    .attr("viewBox", [-width / 2, -height / 2, width, height])
+                    .attr("style", "max-width: 100%; height: auto;")
+                    .call(d3.zoom().scaleExtent([1, 8]).on("zoom", zoomed))
+                    .append("g");
+
+                const link = svg.append("g")
+                    .attr("stroke", "#333")
+                    .attr("stroke-opacity", 1)
+                    .attr("stroke-width", 0.1)
+                    .selectAll("line")
+                    .data(links)
+                    .join("line")
+                    .attr("stroke-width", d => Math.sqrt(d.value));
+
+                const node = svg.append("g")
+                    .attr("stroke", "#fff")
+                    .attr("stroke-width", 0.1)
+                    .selectAll("circle")
+                    .data(nodes)
+                    .join("circle")
+                    .attr("r", 5)
+                    .attr("fill", d => color(d.group))
+                    .call(d3.drag()
+                        .on("start", dragstarted)
+                        .on("drag", dragged)
+                        .on("end", dragended));
+
+                node.append("title")
+                    .text(d => d.id);
+
+                const text = svg.append("g")
+                    .selectAll("text")
+                    .data(nodes)
+                    .join("text")
+                    .attr("x", -10)
+                    .attr("y", -10)
+                    .attr("dy", ".15em")
+                    .attr("font-size", "5px")
+                    .attr("font-family", "sans-serif")
+                    .attr("fill", "#9999")
+                    .text(d => d.id);
+
+                simulation.on("tick", () => {
+                    link
+                        .attr("x1", d => d.source.x)
+                        .attr("y1", d => d.source.y)
+                        .attr("x2", d => d.target.x)
+                        .attr("y2", d => d.target.y);
+
+                    node
+                        .attr("cx", d => d.x)
+                        .attr("cy", d => d.y);
+
+                    node.selectAll("text")
+                        .attr("x", d => d.x + 12)
+                        .attr("y", d => d.y);
+
+                    text
+                        .attr("x", d => d.x - 8)
+                        .attr("y", d => d.y + 8);
+                });
+
+                function zoomed(event) {
+                    svg.attr("transform", event.transform);
+                }
+
+                function dragstarted(event) {
+                    if (!event.active) simulation.alphaTarget(0.3).restart();
+                    event.subject.fx = event.subject.x;
+                    event.subject.fy = event.subject.y;
+                }
+
+                function dragged(event) {
+                    event.subject.fx = event.x;
+                    event.subject.fy = event.y;
+                }
+
+                function dragended(event) {
+                    if (!event.active) simulation.alphaTarget(0);
+                    event.subject.fx = null;
+                    event.subject.fy = null;
+                }
+
+                svg.call(zoom = d3.behavior.zoom().on('zoom', redrawOnZoom)).on('dblclick.zoom', null);
+
+                var zooming = false;
+
+                function redrawOnZoom() {
+                    if (zooming) {
+                        svgContainer.attr('transform', 'translate(' + zoom.translate() + ')' + ' scale(' + zoom.scale() + ')');
+                    }
+                };
+
+                d3.select("body").on("keydown", function () {
+                    zooming = d3.event.ctrlKey;
+                });
+
+                d3.select("body").on("keyup", function () {
+                    zooming = false;
+                });
+
+                return svg.node();
+            }
+
+            createChart(data);
+        });
+    </script>
+    <script>
+        (function () {
+            let SSWZ = function () {
+                this.keyScrollHandler = function (e) {
+                    if (e.ctrlKey) {
+                        e.preventDefault();
+                        return false;
+                    }
+                }
+            };
+
+            if (window === top) {
+                let sswz = new SSWZ();
+                window.addEventListener('wheel', sswz.keyScrollHandler, { passive: false });
+            }
+        })();
+    </script>
+</body>
+
+</html>

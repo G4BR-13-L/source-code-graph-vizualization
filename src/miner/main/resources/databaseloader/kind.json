@@ -1,0 +1,19 @@
+{
+  "kind": [
+    {
+      "description": "youtube#searchResult",
+      "kind": "YOUTUBE_SEARCH_LIST",
+      "contentType": "VIDEO"
+    },
+    {
+      "description": "youtube#videoListResponse",
+      "kind": "YOUTUBE_VIDEO_LIST",
+      "contentType": "VIDEO"
+    },
+    {
+      "description": "youtube#video",
+      "kind": "YOUTUBE_VIDEO",
+      "contentType": "VIDEO"
+    }
+  ]
+}
